@@ -91,6 +91,7 @@ hobbies:
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffdf76" />
+  <img src="https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <img src="https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-1f2937?style=for-the-badge&logo=dart&logoColor=0175C2" />
