@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="350">
 </p>
+<p align="center"><em>“People say I have anger issues. I say I have issues, and anger shows up on time.”</em></p>
 
 ```yaml
 name: Raghad Hameed Alluqmani
