@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:89CFF0,100:1E90FF&height=100&section=header&text=Hey%20Everyone!&fontSize=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F24,50:1A233A,100:2F3A56&height=200&section=header&text=Hey%20Everyone!&fontSize=60&animation=fadeIn&fontColor=E0E6F8"
     alt="Header"
   />
 </p>
+
 
 ✨ **A little about me** ✨
 
