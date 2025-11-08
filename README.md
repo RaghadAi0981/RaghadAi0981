@@ -4,6 +4,29 @@
   />
 </p>
 
+<h2 align="center">Let's Connect and Have a Chat! 💬</h2>
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:RaghdAl@outlook.com">
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzQb&format=png" width="45px" alt="email"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/feed/)">
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="linkedin"/>
+  </a>
+
+  <!-- Optional: GitHub -->
+  <a href="https://github.com/RaghadAi0981">
+    <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="github"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="350">
+</p>
 
 ✨ **A little about me** ✨
 
