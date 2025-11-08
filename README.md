@@ -48,3 +48,21 @@
 
 • ⚡ Fun fact: I enjoy reading **dark-humor books** more than I should 😄
 
+
+<!-- TECH / TOOLS (Aesthetic icons) -->
+<h3>🛠️ Tech I use</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=ffdf76" />
+  <img src="https://img.shields.io/badge/C/C++-1f2937?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-1f2937?style=for-the-badge&logo=arduino&logoColor=00e0a6" />
+  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=ff8c00" />
+  <img src="https://img.shields.io/badge/PyTorch-1f2937?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
+  <img src="https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<!-- DIVIDER -->
+<p align="center">‎</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0b1220&height=70&section=footer&text=Thanks%20for%20visiting!%20🌌&fontSize=18&fontColor=BBD2F3" />
+</p>
