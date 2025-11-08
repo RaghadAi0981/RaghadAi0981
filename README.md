@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Email -->
   <a href="mailto:RaghdAl@outlook.com">
-  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/new-post.png" width="38px" alt="email icon"/>
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40px" alt="Outlook"/>
   </a>
   
   <!-- LinkedIn -->
