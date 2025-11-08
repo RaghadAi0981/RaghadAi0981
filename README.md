@@ -27,8 +27,8 @@
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="350">
 </p>
-
-name: Raghad Hameed
+```yaml
+name: Raghad Hameed ALLuqmni
 located_in: Makkah, Saudi Arabia
 current_role: "Computer Science Student • AI & IoT Enthusiast"
 education:
@@ -78,6 +78,7 @@ hobbies:
     "Small Creative Side Projects",
   ]
 
+```
 
 <!-- TECH / TOOLS (Aesthetic icons) -->
 <h3>🛠️ Tech I use</h3>
