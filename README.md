@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p><div align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="350">
+</p>
 
 ✨ **A little about me** ✨
 
