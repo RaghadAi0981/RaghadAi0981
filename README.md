@@ -28,25 +28,55 @@
   <img src="https://i.gifer.com/7VE.gif" width="350">
 </p>
 
-✨ **A little about me** ✨
+name: Raghad Hameed
+located_in: Makkah, Saudi Arabia
+current_role: "Computer Science Student • AI & IoT Enthusiast"
+education:
+  [
+    "B.Sc. in Computer Science (Umm Al-Qura University)",
+    "AI, Data Science & Machine Learning Self-Learner",
+    "Embedded Systems & Arduino Projects",
+  ]
 
-</div>
+fields_of_interest:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Analysis",
+    "Internet of Things",
+    "Embedded Systems",
+    "Software Engineering",
+    "Robotics",
+  ]
 
-• 👩‍💻 My name is **Raghad Hameed**, a Computer Science student who enjoys building real projects that actually solve problems and make life easier.
+technical_background:
+  [
+    "AI & ML Model Development",
+    "Arduino + Sensors Prototyping",
+    "Python Programming",
+    "Java & OOP",
+    "SQL + Databases",
+  ]
 
-• 🔭 I’m currently working on **AI + IoT projects**, exploring how small devices, embedded systems, and smart ML models can create meaningful real-world impact.
+currently_learning:
+  [
+    "Machine Learning",
+    "parallel computing",
+    etc
+  ]
 
-• 🌱 I’m learning **machine learning, deep learning, embedded systems, and Arduino**. I love anything that mixes software + hardware and turns ideas into working prototypes.
+goals_2025:
+  [
+    "graduate with brain",
+  ]
 
-• 🤝 I’d love to collaborate on **AI research, intelligent systems, and small robotics or IoT ideas**.
-
-• 💬 Ask me about **AI, Python, algorithms, IoT, Arduino, and anything technical that sparks curiosity**.
-
-• 📫 You can reach me through **LinkedIn or email**. I’m always open to connecting and sharing knowledge.
-
-• ❤️ I love **reading, continuous learning, and creating small side projects that slowly grow into something meaningful**.
-
-• ⚡ Fun fact: I enjoy reading **dark-humor books** more than I should 😄
+hobbies:
+  [
+    "Reading",
+    "Dark-Humor Books",
+    "Learning New Tech",
+    "Small Creative Side Projects",
+  ]
 
 
 <!-- TECH / TOOLS (Aesthetic icons) -->
