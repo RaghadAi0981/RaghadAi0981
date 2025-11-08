@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0F24,100:2F3A56&height=180&text=Hey%20Everyone!&fontSize=48&fontColor=E0E6F8&animation=fadeIn"
+  />
 </p>
+
 ✨ **A little about me** ✨
 
 </div>
