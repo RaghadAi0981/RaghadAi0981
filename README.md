@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/0jqtQDm.gif" width="450">
 </p>
+
 <h1 align="center">Hi everyone 👋</h1>
 
 ✨ **A little about me** ✨
