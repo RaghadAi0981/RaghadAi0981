@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:89CFF0,100:1E90FF&height=200&section=header&text=Hey%20Everyone!&fontSize=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:89CFF0,100:1E90FF&height=100&section=header&text=Hey%20Everyone!&fontSize=60&animation=fadeIn"
     alt="Header"
   />
 </p>
