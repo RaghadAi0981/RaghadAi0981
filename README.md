@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/0jqtQDm.gif" width="450">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hey%20Everyone!&fontSize=60&animation=fadeIn"
+    alt="Header"
+  />
 </p>
-
-<h1 align="center">Hi everyone 👋</h1>
 
 ✨ **A little about me** ✨
 
