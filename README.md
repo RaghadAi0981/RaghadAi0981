@@ -133,3 +133,9 @@ hobbies:
   <img src="https://img.shields.io/badge/LaTeX-1f2937?style=for-the-badge&logo=latex&logoColor=white" />
 
 </p>
+
+<!-- DIVIDER -->
+<p align="center">‎</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0b1220&height=70&section=footer&text=Thanks%20for%20visiting!%20🌌&fontSize=18&fontColor=E7F2EF" />
+</p>
