@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20✨&animation=fadeIn&type=waving&color=0:A3DAFF,100:C9A7F5&height=150"/>
+<img src="https://capsule-render.vercel.app/api?text=Raghad%20Hameed%20🌸&animation=fadeIn&type=waving&color=gradient&height=150"/>
 
 ✨ **A little about me** ✨
 
