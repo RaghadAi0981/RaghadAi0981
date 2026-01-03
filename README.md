@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="350" alt="cute gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZqMjYxdTIzamJpdmYyNHJuY2UxamZsMTI2eDBjanB5MnFsMHMwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/905GG7MjDw61q/giphy.gif" width="350" alt="cute gif">
 </p>
 
 ---
