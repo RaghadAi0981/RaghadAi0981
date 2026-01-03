@@ -29,7 +29,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=header" />
 
 ```yaml
 name: Raghad Hameed Alluqmani
