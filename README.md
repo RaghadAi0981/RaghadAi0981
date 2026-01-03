@@ -30,6 +30,9 @@
 </p>
 
 ```yaml
+<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=header" />
+
+```yaml
 name: Raghad Hameed Alluqmani
 located_in: Makkah, Saudi Arabia
 current_role: "Computer Science Student • AI & IoT Enthusiast"
@@ -83,46 +86,55 @@ hobbies:
     "Learning New Tech",
     "Small Creative Side Projects"
   ]
+
 ```
 <h3>🛠️ Tech I Use</h3>
 
 <p>
 
- <!-- 1️⃣ All Soft Pink Theme -->
-<img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-FFB6C1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Programming Languages 🎀 -->
+  <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-FADADD?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-AED6F1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FADADD?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-AED6F1?style=for-the-badge&logo=dart&logoColor=white" />
 
-<!-- 2️⃣ Lavender Purple Theme -->
-<img src="https://img.shields.io/badge/Java-D7BDE2?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-D7BDE2?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-D7BDE2?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-D7BDE2?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Frameworks & Tools 🌷 -->
+  <img src="https://img.shields.io/badge/Laravel-AED6F1?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-FADADD?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-FADADD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-AED6F1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FADADD?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-AED6F1?style=for-the-badge&logo=figma&logoColor=white" />
 
-<!-- 3️⃣ Mint + Pink Mix -->
-<img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-A2D9CE?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-FADADD?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-A2D9CE?style=for-the-badge&logo=django&logoColor=white" />
+  <!-- Databases 💗 -->
+  <img src="https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-AED6F1?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-FADADD?style=for-the-badge&logo=supabase&logoColor=white" />
 
-<!-- 4️⃣ Peach Girly Theme -->
-<img src="https://img.shields.io/badge/Java-F5CBA7?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-F5CBA7?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-F5CBA7?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-F5CBA7?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- AI & Data 🤖🎀 -->
+  <img src="https://img.shields.io/badge/Pandas-AED6F1?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FADADD?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-AED6F1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FADADD?style=for-the-badge&logo=plotly&logoColor=white" />
 
-<!-- 5️⃣ Baby Blue Soft Theme -->
-<img src="https://img.shields.io/badge/Java-AED6F1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-AED6F1?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-AED6F1?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- DevOps & Cloud ☁️💙 -->
+  <img src="https://img.shields.io/badge/Docker-AED6F1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-FADADD?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-AED6F1?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-FADADD?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-AED6F1?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-FADADD?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-AED6F1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<!-- 6️⃣ Pink Gradient Style -->
-<img src="https://img.shields.io/badge/Java-F5B7B1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FADADD?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-D7BDE2?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-F5B7B1?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Embedded & Other 💙 -->
+  <img src="https://img.shields.io/badge/Arduino-FADADD?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-AED6F1?style=for-the-badge&logo=linux&logoColor=19183B" />
+  <img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-AED6F1?style=for-the-badge&logo=latex&logoColor=white" />
+
+</p>
 
 </p>
 
