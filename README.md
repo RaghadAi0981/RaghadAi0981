@@ -1,10 +1,13 @@
+````html
+<!-- ✨ Pastel Girly README (Baby Blue + Baby Pink) ✨ -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=transparent&fontColor=19183B&text=Hey%20Everyone!&fontSize=52&animation=fadeIn"
   />
 </p>
 
-<h2 align="center">Let's Connect and Have a Chat! 💬</h2>
+<h2 align="center" style="color:#19183B;">Let's Connect and Have a Chat! 💬</h2>
 
 <p align="center">
 
@@ -13,7 +16,7 @@
     <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40px" alt="Outlook"/>
   </a>
 
-  <!-- LinkedIn (✅ FIXED LINK) -->
+  <!-- LinkedIn (Replace YOUR-LINKEDIN-USERNAME) -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="linkedin"/>
   </a>
@@ -25,15 +28,17 @@
 
 </p>
 
+<!-- ✅ FIXED GIF (Your old link was markdown inside src) -->
 <p align="center">
-  <img src="[https://i.gifer.com/7VE.gif](https://pin.it/5VJfeZ8Eo)" width="350">
+  <img src="https://i.gifer.com/7VE.gif" width="350" alt="cute gif">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=header" />
+<!-- 💙 Pastel Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=header" />
+</p>
 
 ```yaml
-
-
 name: Raghad Hameed Alluqmani
 located_in: Makkah, Saudi Arabia
 current_role: "Computer Science Student • AI & IoT Enthusiast"
@@ -87,13 +92,20 @@ hobbies:
     "Learning New Tech",
     "Small Creative Side Projects"
   ]
+````
 
-```
-<h3>🛠️ Tech I Use</h3>
+<!-- 🎀 Pastel Divider -->
 
-<p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=FADADD&section=footer" />
+</p>
+
+<h3 align="center" style="color:#19183B;">🛠️ Tech I Use</h3>
+
+<p align="center">
 
   <!-- Programming Languages 🎀 -->
+
   <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-FADADD?style=for-the-badge&logo=c&logoColor=white" />
@@ -102,6 +114,7 @@ hobbies:
   <img src="https://img.shields.io/badge/Dart-AED6F1?style=for-the-badge&logo=dart&logoColor=white" />
 
   <!-- Frameworks & Tools 🌷 -->
+
   <img src="https://img.shields.io/badge/Laravel-AED6F1?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-FADADD?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-FADADD?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -110,17 +123,20 @@ hobbies:
   <img src="https://img.shields.io/badge/Figma-AED6F1?style=for-the-badge&logo=figma&logoColor=white" />
 
   <!-- Databases 💗 -->
+
   <img src="https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-AED6F1?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-FADADD?style=for-the-badge&logo=supabase&logoColor=white" />
 
   <!-- AI & Data 🤖🎀 -->
+
   <img src="https://img.shields.io/badge/Pandas-AED6F1?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-FADADD?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-AED6F1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FADADD?style=for-the-badge&logo=plotly&logoColor=white" />
 
   <!-- DevOps & Cloud ☁️💙 -->
+
   <img src="https://img.shields.io/badge/Docker-AED6F1?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-FADADD?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-AED6F1?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -130,6 +146,7 @@ hobbies:
   <img src="https://img.shields.io/badge/Azure-AED6F1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
   <!-- Embedded & Other 💙 -->
+
   <img src="https://img.shields.io/badge/Arduino-FADADD?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-AED6F1?style=for-the-badge&logo=linux&logoColor=19183B" />
   <img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=white" />
@@ -137,10 +154,14 @@ hobbies:
 
 </p>
 
-</p>
+<!-- 🌸 Soft spacer -->
 
-<!-- DIVIDER -->
 <p align="center">‎</p>
+
+<!-- 🎀 Pastel Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=F1E6C9&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=50&animation=blinking&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=FADADD&text=Thank%20you%20💗&section=footer&reversal=false&textBg=false&fontAlign=50&animation=blinking&fontSize=40&fontColor=19183B" />
 </p>
+```
+
