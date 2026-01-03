@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="350">
+  <img src="[https://i.gifer.com/7VE.gif](https://pin.it/5VJfeZ8Eo)" width="350">
 </p>
 
 ```yaml
