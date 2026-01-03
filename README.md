@@ -88,7 +88,6 @@ hobbies:
 
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=FADADD&section=footer" />
 
 ---
 
