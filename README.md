@@ -136,5 +136,5 @@ hobbies:
 <!-- DIVIDER -->
 <p align="center">‎</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff,100:0b1220&height=70&section=footer&text=Thanks%20for%20visiting!%20🌌&fontSize=18&fontColor=E7F2EF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=F1E6C9&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=50&animation=blinking&fontSize=40" />
 </p>
