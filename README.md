@@ -1,5 +1,4 @@
 ````html
-<!-- ✨ Pastel Girly README (Baby Blue + Baby Pink) ✨ -->
 
 <p align="center">
   <img
