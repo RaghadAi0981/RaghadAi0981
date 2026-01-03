@@ -1,11 +1,10 @@
-````html
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E8A0BF&text=Hey%20Everyone!&fontSize=52&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FADADD&text=Hey%20Everyone!&fontSize=52&animation=fadeIn"
   />
 </p>
 
-<h2 align="center" style="color:#E8A0BF;">Let's Connect and Have a Chat! 💬</h2>
+<h2 align="center" style="color:#FADADD;">Let's Connect and Have a Chat! 💬</h2>
 
 <p align="center">
   <!-- Email -->
@@ -15,23 +14,22 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="linkedin"/>
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="LinkedIn"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/RaghadAi0981">
-    <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="github"/>
+    <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="YOUR_COPIED_IMAGE_URL_HERE" width="350" alt="cute gif">
+  <img src="https://i.gifer.com/7VE.gif" width="350" alt="cute gif">
 </p>
-
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=FADADD&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=header" />
 
 ```yaml
 name: Raghad Hameed Alluqmani
@@ -88,11 +86,11 @@ hobbies:
     "Small Creative Side Projects"
   ]
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=AED6F1&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=35&color=FADADD&section=footer" />
 
 ---
 
-<h3 align="center" style="color:#E8A0BF;">🛠️ Tech I Use</h3>
+<h3 align="center" style="color:#FADADD;">🛠️ Tech I Use</h3>
 
 <p align="center">
 
@@ -145,9 +143,8 @@ hobbies:
 <p align="center">‎</p>
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=FADADD&text=Thank%20you%20💗&fontSize=40&animation=blinking&fontColor=19183B&section=footer"
+    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=AED6F1&text=Thank%20you%20💗&fontSize=40&animation=fadeIn&fontColor=19183B&section=footer"
   />
 </p>
 
-```
 
