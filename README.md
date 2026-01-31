@@ -146,5 +146,9 @@ hobbies:
     src="https://capsule-render.vercel.app/api?type=rect&height=70&color=AED6F1&text=Thank%20you%20💗&fontSize=40&animation=fadeIn&fontColor=19183B&section=footer"
   />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
