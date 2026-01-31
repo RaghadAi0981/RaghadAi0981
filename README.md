@@ -138,14 +138,5 @@ hobbies:
 
 </p>
 
----
-
-<p align="center">‎</p>
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&color=AED6F1&text=Thank%20you%20💗&fontSize=40&animation=fadeIn&fontColor=19183B&section=footer"
-  />
-</p>
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="100%">
 
 
